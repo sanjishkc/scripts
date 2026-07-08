@@ -1,0 +1,27 @@
+=============================================
+        Recursive Base64 Decoder
+=============================================
+Where is the encoded text?
+  1. Type or paste it
+  2. Read it from a file
+Choice: 2
+File path: sample_encoded.txt
+
+How many times should it decode?
+  1. Keep going until it can't (auto)
+  2. A set number of times
+Choice: 2
+How many rounds? 5
+
+Decoding...Layer 1: VlZSR1UxSXlWWHBUV0hCYVRURmFOVmt6Y0VkTmF6QjRUMWRzVDJGc1NtMVhiVFZUVFRKYVVsQlVNRDA9
+  Layer 2: VVRGU1IyVXpTWHBaTTFaNVkzcEdNazB4T1dsT2FsSm1XbTVTTTJaUlBUMD0=
+  Layer 3: UTFSR2UzSXpZM1Z5Y3pGMk0xOWlOalJmWm5SM2ZRPT0=
+  Layer 4: Q1RGe3IzY3VyczF2M19iNjRfZnR3fQ==
+  Layer 5: CTF{r3curs1v3_b64_ftw}
+
+---------------------------------------------
+Result:
+CTF{r3curs1v3_b64_ftw}
+---------------------------------------------
+
+Save the result to a file? (y/n): 
